@@ -23,3 +23,12 @@ So, the rest of the solution assumes only 29 classes (actually it's 22, see belo
 Since, we're fine-tuning BERT, it requres a text of `max len = 512`.
 So, I had to truncate the data accordingly. This puts us to only 2K data points, with **N=22** classes.
 This is a simple assumption that has worked.
+
+## Training
+
+Refer to `naive-training-bert.ipynb`
+
+
+## Further Reads
+
+Please look into the powerpoint presentation I have at `resources/`.
