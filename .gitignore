@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+# ignorance is bliss
+
+data/
+tmp/
+lightning_logs/
+
 # Distribution / packaging
 .Python
 build/
