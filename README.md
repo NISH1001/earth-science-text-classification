@@ -32,3 +32,8 @@ Refer to `naive-training-bert.ipynb`
 ## Further Reads
 
 Please look into the powerpoint presentation I have at `resources/`.
+
+## Reference
+- [How to train a multi-label classifer](https://github.com/keras-team/keras/issues/741)
+- [Using `BCEWithLogisLoss` for multi-label classification](https://discuss.pytorch.org/t/using-bcewithlogisloss-for-multi-label-classification/67011)
+- [PyData: Jurgen Van Gael - Hierarchical Text Classification using Python](https://www.youtube.com/watch?v=Xg8UtTgziZE&t=1979s)
