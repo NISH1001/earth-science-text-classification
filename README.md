@@ -28,6 +28,12 @@ This is a simple assumption that has worked.
 
 Refer to `naive-training-bert.ipynb`
 
+## [New] Hierarchical Multi-label classification
+
+Refer to `hierarchical_classification.ipynb`.
+
+It makes use of the NeuralNLP-NeuralClassifier framework (see reference section below).
+
 
 ## Further Reads
 
@@ -37,3 +43,5 @@ Please look into the powerpoint presentation I have at `resources/`.
 - [How to train a multi-label classifer](https://github.com/keras-team/keras/issues/741)
 - [Using `BCEWithLogisLoss` for multi-label classification](https://discuss.pytorch.org/t/using-bcewithlogisloss-for-multi-label-classification/67011)
 - [PyData: Jurgen Van Gael - Hierarchical Text Classification using Python](https://www.youtube.com/watch?v=Xg8UtTgziZE&t=1979s)
+- [NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) :  An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
+- [NeuralClassifier: An Open-source Neural Hierarchical Multi-label Text Classification Toolkit](https://aclanthology.org/P19-3015/)
